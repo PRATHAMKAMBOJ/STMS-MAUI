@@ -1,0 +1,98 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = STMS
+build_property.ProjectDir = D:\Learn\MAUI(Udemy)\Section 17P\STMS\STMS\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\HomePage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/Login/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.Login.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\Login\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Login\LoginPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/MainFlyoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MainFlyoutPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/MenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.MenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MenuPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/StudentPages/AddStudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.StudentPages.AddStudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\StudentPages\AddStudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\StudentPages\AddStudentPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/StudentPages/StudentDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.StudentPages.StudentDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\StudentPages\StudentDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\StudentPages\StudentDetailPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/StudentPages/StudentListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.StudentPages.StudentListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\StudentPages\StudentListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\StudentPages\StudentListPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/TeacherPages/AddTeacherPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.TeacherPages.AddTeacherPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TeacherPages\AddTeacherPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TeacherPages\AddTeacherPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/TeacherPages/TeacherDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.TeacherPages.TeacherDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TeacherPages\TeacherDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TeacherPages\TeacherDetailPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/MVVM/Views/TeacherPages/TeacherListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.MVVM.Views.TeacherPages.TeacherListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\TeacherPages\TeacherListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\TeacherPages\TeacherListPage.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Learn/MAUI(Udemy)/Section 17P/STMS/STMS/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = STMS.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

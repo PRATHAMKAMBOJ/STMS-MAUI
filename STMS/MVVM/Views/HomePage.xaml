@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="STMS.MVVM.Views.HomePage"
+             Title="HomePage">
+    <VerticalStackLayout>
+        
+        <Grid RowDefinitions="*,*" Padding="10">
+            <Label Text="Welcome "  FontSize="80"/>
+            <Label Grid.Row="1"
+                   Text="{Binding UserName}" 
+                   TextColor="Blue"
+                   FontSize="70"/>
+        </Grid>
+
+    </VerticalStackLayout>
+</ContentPage>

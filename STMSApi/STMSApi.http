@@ -1,0 +1,6 @@
+@STMSApi_HostAddress = http://localhost:5111
+
+GET {{STMSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

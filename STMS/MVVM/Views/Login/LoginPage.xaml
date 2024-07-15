@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="STMS.MVVM.Views.LoginPage">
+    <Grid>
+        <Grid HorizontalOptions="Center" 
+          RowSpacing="10" 
+          Margin="10" 
+          Padding="10"
+          Opacity="{Binding LoginPageOpacity}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Image Grid.Row="0" Source="stmslogo.png" HorizontalOptions="Center" Aspect="Center" HeightRequest="300" VerticalOptions="Start"/>
+            <Grid Grid.Row="1" RowDefinitions="*,*">
+                <Label Text="Username:" FontSize="16" Margin="0,0,0,10" Grid.Row="0"/>
+                <Entry Placeholder="Enter Username"  VerticalOptions="Center" Text="{Binding Username}" Grid.Row="1"/>
+            </Grid>
+            <Grid Grid.Row="2" RowDefinitions="*,*">
+                <Label Text="Password:" FontSize="16" Margin="0,10,0,0" />
+                <Entry IsPassword="True" Placeholder="Enter Password"  VerticalOptions="Center" Text="{Binding Password}" Grid.Row="1"/>
+            </Grid>
+            <Grid Grid.Row="3" RowDefinitions="*,*">
+                <Button Text="Login" Margin="0,10,0,0" HorizontalOptions="Center" IsEnabled="True" WidthRequest="500" Command="{Binding LoginCommand}"/>
+                <Label  TextColor="Red" Text="{Binding StatusMessage}" HorizontalOptions="Center" FontSize="20" IsVisible="{Binding IsErrorVisible}" Grid.Row="1"/>
+            </Grid>
+        </Grid>
+        <Image IsAnimationPlaying="True" Source="loader_icon.gif" BackgroundColor="White" Aspect="AspectFit" HeightRequest="100" WidthRequest="100" IsVisible="{Binding IsLoaderVisible}"/>
+    </Grid>
+</ContentPage>

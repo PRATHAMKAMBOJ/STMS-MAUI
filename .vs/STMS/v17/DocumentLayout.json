@@ -1,0 +1,1614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\mainflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\mainflyoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\teacherlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\teacherlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\teacherdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\teacherdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\teacherdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\teacherdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\addteacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\addteacherpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\addteacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\addteacherpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\studentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\studentlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\studentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\studentlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\studentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\studentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\studentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\studentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\addstudentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\addstudentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\studentpages\\addstudentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\studentpages\\addstudentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\login\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\login\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\login\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\login\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\menupageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\menupageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\teacherviewmodel\\teacherlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\teacherviewmodel\\teacherlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\teacherviewmodel\\teacherdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\teacherviewmodel\\teacherdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\teacherviewmodel\\addteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\teacherviewmodel\\addteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\studentviewmodel\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\studentviewmodel\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\studentviewmodel\\studentdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\studentviewmodel\\studentdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\viewmodels\\studentviewmodel\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\viewmodels\\studentviewmodel\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\mainflyoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\models\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\models\\jwttokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\services\\authenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\interfaces\\iauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\interfaces\\iauthenticateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\interfaces\\ijwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\interfaces\\ijwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\services\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\services\\jwtauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\views\\teacherpages\\teacherlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\views\\teacherpages\\teacherlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\xamltypeinfo.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\xamltypeinfo.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\stms.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\obj\\debug\\net8.0-windows10.0.19041.0\\win10-x64\\stms.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\obj\\debug\\net8.0-maccatalyst\\maccatalyst-x64\\stms.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\obj\\debug\\net8.0-maccatalyst\\maccatalyst-x64\\stms.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\obj\\debug\\net8.0\\stmsapi.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\obj\\debug\\net8.0\\stmsapi.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\repositories\\userreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\repositories\\userreposiotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\models\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\models\\flyoutpageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\models\\flyoutpageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\models\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\models\\validationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\platforms\\ios\\info.plist||{4B819833-C3E7-40A8-B4AF-4F7F5E6B913F}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\fodyweavers.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\stms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\stms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\resources\\images\\teacher_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\resources\\images\\teacher_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\resources\\images\\student_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\resources\\images\\student_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\resources\\images\\stmslogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\resources\\images\\stmslogo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\resources\\images\\home_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\resources\\images\\home_icon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\mvvm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\mvvm\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\annotation\\numericvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\annotation\\numericvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\resources\\images\\addimage_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\resources\\images\\addimage_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\106739112c966cc39d25dd039145ce9de2cff17182935e358a18dd53276b70ce\\MethodBaseInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b9b8d17cc8191ab0d686d75f5934e8b9fae5d8eb702ef8038522671aff068d80\\Command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.7\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\0e599f47268ea62b9af937dc43e1103c8accf8988ef11d1cec2bae5c647caaf7\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\stmsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\stmsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\interfaces\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\platforms\\ios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stms\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1347B13-40F4-4B49-A0E2-45604950FDC3}|STMS\\STMS.csproj|solutionrelative:stms\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\migrations\\20240507121634_teacher_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\migrations\\20240507121634_teacher_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|d:\\learn\\maui(udemy)\\section 17p\\stms\\stmsapi\\migrations\\20240507114555_student_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA094045-7AC4-45E0-B27D-458ECF2BA81E}|STMSApi\\STMSApi.csproj|solutionrelative:stmsapi\\migrations\\20240507114555_student_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentListViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentListViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:00:45.263Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\HomePage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\HomePage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T12:20:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTeacherPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T06:33:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTeacherPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\AddTeacherPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:40:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDetailPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T13:36:25.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherDetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\TeacherDetailPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:36:29.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherListPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:04:48.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\HomePage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\HomePage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:21:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainFlyoutPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MainFlyoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\MainFlyoutPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MainFlyoutPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\MainFlyoutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:33:34.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\MenuPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MenuPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\MenuPage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:34:23.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentListPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:37:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentListPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\StudentListPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T07:34:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:18:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDetailPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\StudentDetailPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAvwBEAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T09:17:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddStudentPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:18:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddStudentPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\StudentPages\\AddStudentPage.xaml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwDcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T11:12:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\Login\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\Login\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\Login\\LoginPage.xaml.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\Login\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:16:49.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\Login\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\Login\\LoginPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\Login\\LoginPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\Login\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T14:31:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuPageViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\MenuPageViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\MenuPageViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\MenuPageViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\MenuPageViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:47:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:22:16.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherListViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherListViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherListViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherListViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:22:26.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherDetailViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherDetailViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherDetailViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherDetailViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\TeacherDetailViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:38:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddTeacherViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\AddTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\AddTeacherViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\TeacherViewModel\\AddTeacherViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\TeacherViewModel\\AddTeacherViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:37:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentDetailViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentDetailViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentDetailViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentDetailViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\StudentViewModel\\StudentDetailViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:07:18.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\ViewModels\\StudentViewModel\\AddStudentViewModel.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\ViewModels\\StudentViewModel\\AddStudentViewModel.cs",
+              "RelativeToolTip": "STMS\\MVVM\\ViewModels\\StudentViewModel\\AddStudentViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:12:12.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwEoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:02:37.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAIAwwJgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:44:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "STMS\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\AuthService.cs",
+              "RelativeToolTip": "STMS\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:24:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\MenuPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MenuPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\MenuPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T07:34:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "STMS\\Services\\TeacherService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\TeacherService.cs",
+              "RelativeToolTip": "STMS\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:27:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "STMS\\Services\\StudentService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Services\\StudentService.cs",
+              "RelativeToolTip": "STMS\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:00:36.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainFlyoutPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MainFlyoutPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\MainFlyoutPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\MainFlyoutPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\MainFlyoutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-08T07:32:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Models\\TokenResponse.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "STMSApi\\Models\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:45:44.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthenticateService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Services\\AuthenticateService.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Services\\AuthenticateService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Services\\AuthenticateService.cs",
+              "RelativeToolTip": "STMSApi\\Services\\AuthenticateService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:39:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtTokenResponse.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\JwtTokenResponse.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Models\\JwtTokenResponse.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\JwtTokenResponse.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Models\\JwtTokenResponse.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wBEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:29:37.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IJWTAuthService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IJWTAuthService.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Interfaces\\IJWTAuthService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IJWTAuthService.cs",
+              "RelativeToolTip": "STMSApi\\Interfaces\\IJWTAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:49:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "STMS\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "STMS\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:25:03.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IAuthenticateService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IAuthenticateService.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Interfaces\\IAuthenticateService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IAuthenticateService.cs",
+              "RelativeToolTip": "STMSApi\\Interfaces\\IAuthenticateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:49:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "STMSApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:39:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Models\\User.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\User.cs",
+              "RelativeToolTip": "STMSApi\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:39:20.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "XamlTypeInfo.g.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
+              "RelativeDocumentMoniker": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
+              "RelativeToolTip": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:02:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TeacherListPage.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml",
+              "RelativeToolTip": "STMS\\MVVM\\Views\\TeacherPages\\TeacherListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T12:57:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JwtAuthService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Services\\JwtAuthService.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Services\\JwtAuthService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Services\\JwtAuthService.cs",
+              "RelativeToolTip": "STMSApi\\Services\\JwtAuthService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:39:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "STMSApi.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\obj\\Debug\\net8.0\\STMSApi.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "STMSApi\\obj\\Debug\\net8.0\\STMSApi.AssemblyInfo.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\obj\\Debug\\net8.0\\STMSApi.AssemblyInfo.cs",
+              "RelativeToolTip": "STMSApi\\obj\\Debug\\net8.0\\STMSApi.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:02:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "STMS.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\STMS.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "STMS\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\STMS.AssemblyInfo.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\STMS.AssemblyInfo.cs",
+              "RelativeToolTip": "STMS\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\STMS.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:02:35.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "STMS.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\STMS.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\STMS.AssemblyInfo.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\STMS.AssemblyInfo.cs",
+              "RelativeToolTip": "STMS\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\STMS.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:02:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\Teacher.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:13:08.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SignUpRequest.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\SignUpRequest.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Models\\SignUpRequest.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\SignUpRequest.cs",
+              "RelativeToolTip": "STMSApi\\Models\\SignUpRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:41:19.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "STMSApi\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:46:24.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserReposiotry.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\UserReposiotry.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Repositories\\UserReposiotry.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\UserReposiotry.cs",
+              "RelativeToolTip": "STMSApi\\Repositories\\UserReposiotry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:37:10.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Repositories\\TeacherRepository.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "STMSApi\\Repositories\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:57:45.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FlyoutPageItem.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\FlyoutPageItem.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Models\\FlyoutPageItem.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\FlyoutPageItem.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Models\\FlyoutPageItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:30:51.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ValidationHandler.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\ValidationHandler.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Models\\ValidationHandler.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\ValidationHandler.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Models\\ValidationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:21:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\App.xaml",
+              "RelativeDocumentMoniker": "STMS\\App.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\App.xaml",
+              "RelativeToolTip": "STMS\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T12:17:19.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "STMS\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "STMS\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-13T10:26:49.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FodyWeavers.xml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\FodyWeavers.xml",
+              "RelativeDocumentMoniker": "STMS\\FodyWeavers.xml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\FodyWeavers.xml",
+              "RelativeToolTip": "STMS\\FodyWeavers.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-07T09:40:25.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "STMS\\MauiProgram.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MauiProgram.cs",
+              "RelativeToolTip": "STMS\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:07:46.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Info.plist",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\iOS\\Info.plist",
+              "RelativeDocumentMoniker": "STMS\\Platforms\\iOS\\Info.plist",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\iOS\\Info.plist",
+              "RelativeToolTip": "STMS\\Platforms\\iOS\\Info.plist",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T14:15:24.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\AppShell.xaml",
+              "RelativeDocumentMoniker": "STMS\\AppShell.xaml",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\AppShell.xaml",
+              "RelativeToolTip": "STMS\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-06T12:17:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "STMS",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\STMS.csproj",
+              "RelativeDocumentMoniker": "STMS\\STMS.csproj",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\STMS.csproj",
+              "RelativeToolTip": "STMS\\STMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T10:07:09.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "stmslogo.png -  [English (United States)] - PNG [300x311, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\stmslogo.png",
+              "RelativeDocumentMoniker": "STMS\\Resources\\Images\\stmslogo.png",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\stmslogo.png -  [English (United States)] - PNG [300x311, 32 bit, PNG]",
+              "RelativeToolTip": "STMS\\Resources\\Images\\stmslogo.png -  [English (United States)] - PNG [300x311, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-13T09:12:08.498Z",
+              "EditorCaption": " -  [English (United States)] - PNG [300x311, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "home_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\home_icon.png",
+              "RelativeDocumentMoniker": "STMS\\Resources\\Images\\home_icon.png",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\home_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "STMS\\Resources\\Images\\home_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-13T09:10:32.681Z",
+              "EditorCaption": " -  [English (United States)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "student_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\student_icon.png",
+              "RelativeDocumentMoniker": "STMS\\Resources\\Images\\student_icon.png",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\student_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "STMS\\Resources\\Images\\student_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-13T09:12:10.7Z",
+              "EditorCaption": " -  [English (United States)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "teacher_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\teacher_icon.png",
+              "RelativeDocumentMoniker": "STMS\\Resources\\Images\\teacher_icon.png",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\teacher_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "STMS\\Resources\\Images\\teacher_icon.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-13T09:13:03.194Z",
+              "EditorCaption": " -  [English (United States)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIAwwFcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:15:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "NumericValidation.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Annotation\\NumericValidation.cs",
+              "RelativeDocumentMoniker": "STMS\\Annotation\\NumericValidation.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Annotation\\NumericValidation.cs",
+              "RelativeToolTip": "STMS\\Annotation\\NumericValidation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T07:01:20.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "STMS\\MVVM\\Models\\Student.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\MVVM\\Models\\Student.cs",
+              "RelativeToolTip": "STMS\\MVVM\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:19:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "STMSApi\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:23:25.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "STMSApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAArwCwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:41:19.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Program.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Program.cs",
+              "RelativeToolTip": "STMSApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:36:19.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ToolTip": "C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240311000\\buildTransitive\\Microsoft.UI.Xaml.Markup.Compiler.interop.targets",
+              "ViewState": "AQIAAOsBAAAAAAAAAAAgwPgBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-08T14:22:34.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\App.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\App.xaml.cs",
+              "RelativeToolTip": "STMS\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:12:04.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "STMS\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "STMS\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T05:27:33.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "STMS\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "STMS\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:38:50.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "STMSApi\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawEEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:47:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "addimage_logo.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\addimage_logo.png",
+              "RelativeDocumentMoniker": "STMS\\Resources\\Images\\addimage_logo.png",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Resources\\Images\\addimage_logo.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "STMS\\Resources\\Images\\addimage_logo.png -  [English (United States)] - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-09T05:44:44.849Z",
+              "EditorCaption": " -  [English (United States)] - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "MethodBaseInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\106739112c966cc39d25dd039145ce9de2cff17182935e358a18dd53276b70ce\\MethodBaseInvoker.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\106739112c966cc39d25dd039145ce9de2cff17182935e358a18dd53276b70ce\\MethodBaseInvoker.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAawFYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:54:38.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b9b8d17cc8191ab0d686d75f5934e8b9fae5d8eb702ef8038522671aff068d80\\Command.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b9b8d17cc8191ab0d686d75f5934e8b9fae5d8eb702ef8038522671aff068d80\\Command.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawFgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:56:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\b3ab4fb85b206f2413edb729cada949a41704b6f8655f0c544f8427c6a3a5c21\\Task.cs",
+              "ViewState": "AQIAAHQHAAAAAAAAAADgv4QHAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:37:34.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.7\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\pkamboj\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.7\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAFoCAAAAAAAAAAAgwGcCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-09T05:48:04.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\0e599f47268ea62b9af937dc43e1103c8accf8988ef11d1cec2bae5c647caaf7\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\0e599f47268ea62b9af937dc43e1103c8accf8988ef11d1cec2bae5c647caaf7\\TaskAwaiter.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAawIwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:23:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "STMSApi\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:19:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "STMSApi\\DatabaseContext.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\DatabaseContext.cs",
+              "RelativeToolTip": "STMSApi\\DatabaseContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:36:10.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "STMS\\AppShell.xaml.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\AppShell.xaml.cs",
+              "RelativeToolTip": "STMS\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:56:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\Teacher.cs",
+              "RelativeToolTip": "STMSApi\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:59:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAALAAAAAAAAAAAADwv9YAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-07T17:42:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Models\\Student.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Models\\Student.cs",
+              "RelativeToolTip": "STMSApi\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:42:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "STMSApi.csproj",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\STMSApi.csproj",
+              "RelativeDocumentMoniker": "STMSApi\\STMSApi.csproj",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\STMSApi.csproj",
+              "RelativeToolTip": "STMSApi\\STMSApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T13:58:31.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Interfaces\\ITeacherRepository.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Interfaces\\ITeacherRepository.cs",
+              "RelativeToolTip": "STMSApi\\Interfaces\\ITeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:20:06.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\pkamboj\\AppData\\Local\\Temp\\.vsdbgsrc\\437684163430f6798e00e24b7347fd1572cbde51ae0d110ec998171a8e124386\\ServiceProvider.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAtwGEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:07:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240507121634_teacher_table.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Migrations\\20240507121634_teacher_table.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Migrations\\20240507121634_teacher_table.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Migrations\\20240507121634_teacher_table.cs",
+              "RelativeToolTip": "STMSApi\\Migrations\\20240507121634_teacher_table.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:16:34.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20240507114555_student_table.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Migrations\\20240507114555_student_table.cs",
+              "RelativeDocumentMoniker": "STMSApi\\Migrations\\20240507114555_student_table.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\Migrations\\20240507114555_student_table.cs",
+              "RelativeToolTip": "STMSApi\\Migrations\\20240507114555_student_table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:45:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\iOS\\Program.cs",
+              "RelativeDocumentMoniker": "STMS\\Platforms\\iOS\\Program.cs",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\iOS\\Program.cs",
+              "RelativeToolTip": "STMS\\Platforms\\iOS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:15:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "STMS\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMS\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "STMS\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-05-06T14:14:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "STMSApi\\appsettings.json",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\appsettings.json",
+              "RelativeToolTip": "STMSApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T11:36:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "STMSApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Learn\\MAUI(Udemy)\\Section 17P\\STMS\\STMSApi\\appsettings.Development.json",
+              "RelativeToolTip": "STMSApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T11:36:26.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
